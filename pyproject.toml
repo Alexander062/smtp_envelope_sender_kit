@@ -1,6 +1,6 @@
 [project]
 name = "smtp-envelope-sender-kit"
-version = "0.1.0"
+version = "0.1.1"
 description = "Extracts mailbox addresses and ESMTP parameters from SMTP envelope commands."
 requires-python = ">=3.10"
 dependencies = []
